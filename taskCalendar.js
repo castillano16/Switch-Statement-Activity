@@ -1,5 +1,3 @@
-// taskCalendar.js
-
 let day = prompt("Enter a day of the week:").toLowerCase(); // Convert input to lowercase for consistency
 let task;
 
