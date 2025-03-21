@@ -27,4 +27,4 @@ switch (day) {
         task = "Invalid day entered. Please enter a valid day of the week.";
 }
 
-console.log(`Your task for ${day.charAt(0).toUpperCase() + day.slice(1)} is: ${task}`);
+console.log(`Your task for {Monday});
